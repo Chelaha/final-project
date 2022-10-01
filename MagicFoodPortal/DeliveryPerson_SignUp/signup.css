@@ -1,0 +1,32 @@
+#currenpage-navbar-font{
+    color: gray;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-style: initial;
+}
+
+#otherpages-navbar-font{
+    color: gray;
+    font-weight: lighter;
+    font-family: 'Open Sans', sans-serif;
+    font-style: initial;
+}
+
+.common-font{
+    font-family: 'Open Sans', sans-serif;
+}
+
+form{
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    color: gray;
+}
+
+table{
+    width: 100%;
+}
+
+img{
+    width: 50%;
+    height: 100%;
+}
